@@ -6,6 +6,7 @@ I just completed a comprehensive Power BI dashboard project focusing on BMW car 
 ---
 
 ## 🎥 Dashboard Demo  
+![Demo du dashboard]("C:\Users\yomna\Downloads\bmw-ezgif.com-video-to-gif-converter.gif")
 
 ---
 
