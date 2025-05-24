@@ -5,6 +5,10 @@ I just completed a comprehensive Power BI dashboard project focusing on BMW car 
 
 ---
 
+## 🎥 Dashboard Demo  
+
+---
+
 ## 🔧 What I Did  
 - **Data Preparation:** Cleaned and transformed raw sales data using Power Query to ensure data quality and consistency.  
 - **Data Enrichment:** Added custom columns like Year, Month, and Category to enhance data granularity and analysis.  
