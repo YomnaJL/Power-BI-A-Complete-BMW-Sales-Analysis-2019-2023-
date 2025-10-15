@@ -5,9 +5,9 @@ I just completed a comprehensive Power BI dashboard project focusing on BMW car 
 
 ---
 
-## 🎥 Dashboard Demo  
-![Demo du dashboard](https://github.com/YomnaJL/A-Complete-BMW-Sales-Analysis-2019-2023-/raw/main/bmw-ezgif.com-video-to-gif-converter.gif)
-
+## Screenshot
+![Dashboard Preview](dashBMW.png)
+![Dashboard Preview](dashboardBMW2.png)
 ---
 
 ## 🔧 What I Did  
